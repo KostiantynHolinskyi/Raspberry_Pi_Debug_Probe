@@ -9,4 +9,4 @@ Raspberry Pi Debug Probe SWD UART
 ![](https://github.com/GolinskiyKonstantin/Raspberry_Pi_Debug_Probe/blob/main/image/Raspberry_Pi_Debug_Probe_3.jpg)
 
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
